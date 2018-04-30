@@ -29,6 +29,8 @@ We could use a smartphone as well.
 
 # Future
 
+![alt text](https://github.com/frankthedead/ExplorerRobot/blob/master/IMG_0367.JPG)
+
 With a more robust robot, I want to make some additions to the project, such as:
 - Collect data such as temperature and humidity of the environment;
 - Unify all data collected in only one interface;
