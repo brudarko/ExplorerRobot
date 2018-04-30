@@ -1,12 +1,13 @@
 # Explorer Robot + Aedes *aegypti*
+
+![alt text](https://github.com/frankthedead/ExplorerRobot/blob/master/2018-04-30%2016_22_04.gif)
+
 Prototype robot to find outbreaks of the mosquito that transmits infectious diseases in terrains of difficult access.
 This is a prototype robot, the main idea is to make a robot more resistant parts.
 
 # [Hackster.io Project](https://www.hackster.io/franktheliving/explorer-robot-aedes-aegypti-ad076a)
 
 # Purpose/Why?
-
-![alt text](https://github.com/frankthedead/ExplorerRobot/blob/master/2018-04-30%2016_22_04.gif)
 
 In Brazil, the Aedes aegypti mosquito is a major transmitter of infectious diseases such as dengue, chikungunya, zika and yellow fever. As it is a domestic mosquito, it is most commonly found in areas of high urban concentration.
 
