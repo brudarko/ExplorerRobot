@@ -1,4 +1,4 @@
-# Explorer Robot + Aedes-aegypti
+# Explorer Robot + Aedes *aegypti*
 Prototype robot to find outbreaks of the mosquito that transmits infectious diseases in terrains of difficult access.
 This is a prototype robot, the main idea is to make a robot more resistant parts.
 
