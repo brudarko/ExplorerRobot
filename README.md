@@ -30,8 +30,9 @@ We could use a smartphone as well.
 # Future
 
 With a more robust robot, I want to make some additions to the project, such as:
-Collect data such as temperature and humidity of the environment;
-Unify all data collected in only one interface;
-Use a better camera, with flash - or night vision;
-More data that could be helpful?
+- Collect data such as temperature and humidity of the environment;
+- Unify all data collected in only one interface;
+- Use a better camera, with flash - or night vision;
+- More data that could be helpful?
+
 If you have any questions about this project, please do not hesitate to ask.
