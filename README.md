@@ -17,8 +17,10 @@ In some cases, these health workers may not always be able to access some areas,
 And that's what the robot comes in, the main purpose of the robot is to serve as a helper to monitor these areas and give feedback to the agents so that there can be a more accurate investigation of the site.
 
 # The robot
+
 The prototype robot is made of Lego Mindstorms.
 It has 4 treadmills and two more to overlap obstacles, as well as if the robot tilts, it can return to its original position.
+
 ![alt text](https://github.com/frankthedead/ExplorerRobot/blob/master/2018-04-30%2016_26_56.gif)
 
 In this version, it is controlled via bluetooth with a reachability of 40 meters. Coupled at its top is a GoPro Hero 4 that will stream the video to the health agent, giving you the possibility to see what the robot's see.
