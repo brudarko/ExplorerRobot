@@ -41,5 +41,5 @@ With a more robust robot, I want to make some additions to the project, such as:
 If you have any questions about this project, please do not hesitate to ask.
 
 # Appears on:
-[vMaker](https://vmaker.tw/archives/25762)
-Winned 4th place on [2018 China-US Young Maker Competition](https://www.hackster.io/contests/2018chinausyoungmakercompetition)
+- [vMaker](https://vmaker.tw/archives/25762)
+- Winned 4th place on [2018 China-US Young Maker Competition](https://www.hackster.io/contests/2018chinausyoungmakercompetition)
